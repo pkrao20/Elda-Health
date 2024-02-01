@@ -78,57 +78,6 @@ Contributions to the Yoga with Sheetal website project are welcome. If you would
 4. Push to the branch: `git push origin your-branch`
 5. Submit a pull request.
 
-## 🙌 Contributors
-
-The following individuals have contributed to the development of this project:
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/Shaqayeq-taheri">
-          <img src="https://avatars.githubusercontent.com/u/120387460?v=4" width="100px;" alt="Shaqayeq Taheri" style="border-radius: 50%;">
-          <br />
-          <sub><b>Shaqayeq Taheri</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/Naeemi7">
-          <img src="https://avatars.githubusercontent.com/u/120386826?u=bde7bfb40f3f0b9c80385fd78a5ae6b28bba6ab5&v=4" width="100px;" alt="Abdulwase Naeemi" style="border-radius: 50%;">
-          <br />
-          <sub><b>Abdulwase Naeemi</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/Kidan-Tekelearegy">
-          <img src="https://avatars.githubusercontent.com/u/120387984?v=4" width="100px;" alt="Kidan Lakew" style="border-radius: 50%;">
-          <br />
-          <sub><b>Kidan Lakew</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/louisclarencepeter">
-          <img src="https://avatars.githubusercontent.com/u/109584572?v=4" width="100px;" alt="Louis Peter" style="border-radius: 50%;">
-          <br />
-          <sub><b>Louis Peter</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/roshinimurali">
-          <img src="https://avatars.githubusercontent.com/u/80250538?v=4" width="100px;" alt="Roshini Muralidharan" style="border-radius: 50%;">
-          <br />
-          <sub><b>Roshini Muralidharan</b></sub>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-The website is designed by
-
-<a href="https://github.com/roshinimurali">Roshini Muralidharan</a>
-
-> > > > > > > development
 <!--
 ## 📜 License
 
