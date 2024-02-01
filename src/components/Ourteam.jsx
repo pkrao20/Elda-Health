@@ -5,7 +5,7 @@ const Ourteam = () => {
   const cardsData = [
     {
       id: 1,
-      title: "Prasant Rao",
+      title: "Prashant Rao",
       Linkedin: "https://www.linkedin.com/in/raopk2020/",
       Github: "https://github.com/pkrao20",
       image: Prashant,
