@@ -73,7 +73,7 @@ const cardsData = [
 
     {
       header: "Starter",
-      price: "€50 per course",
+      price: "Rs. 5499 per course",
       buttonText: "Book now",
       className: "basic",
       cardContainer: "meditation",
@@ -86,7 +86,7 @@ const cardsData = [
     },
     {
       header: "Professional",
-      price: "€90 per course",
+      price: "Rs. 5499 per course",
       buttonText: "Book now",
       className: "standard",
       cardContainer: "meditation",
@@ -99,7 +99,7 @@ const cardsData = [
     },
     {
       header: "Champion",
-      price: "€150 per course",
+      price: "Rs. 5499 per course",
       buttonText: "Book now",
       className: "premium",
       cardContainer: "meditation",
@@ -116,7 +116,7 @@ const cardsData = [
 
     {
       header: "Starter",
-      price: "€150 per person",
+      price: "Rs. 5499 per person",
       buttonText: "Book now",
       className: "basic",
       cardContainer: "retreat",
@@ -129,7 +129,7 @@ const cardsData = [
     },
     {
       header: "Professional",
-      price: "€250 per person",
+      price: "Rs. 5499 per person",
       buttonText: "Book now",
       className: "standard",
       cardContainer: "retreat",
@@ -142,7 +142,7 @@ const cardsData = [
     },
     {
       header: "Champion",
-      price: "€350 per person",
+      price: "Rs. 5499 per person",
       buttonText: "Book now",
       className: "premium",
       cardContainer: "retreat",
